@@ -1,7 +1,5 @@
 const newPool = require("./Db");
 
-// typescript types for mapRowsToNestedData
-
 interface Recipe {
   id: number;
   name: string;
